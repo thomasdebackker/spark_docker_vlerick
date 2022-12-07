@@ -21,7 +21,7 @@ def label_holidays(
     new_colname: str = "is_belgian_holiday",
 ) -> DataFrame:
     """Adds a column indicating whether or not the column `colname`
-    is a holiday."""
+    are holidays."""
     pass
 
 
