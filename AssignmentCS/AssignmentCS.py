@@ -1,11 +1,3 @@
-import sys
-
-sys.path.append("/path/to/pyspark")
-
-import pyspark
-
-sys.path.append("/path/to/pyspark")
-
 
 from pyspark import SparkConf
 from pyspark.sql import SparkSession
